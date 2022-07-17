@@ -1,0 +1,702 @@
+Segment,Country, Product 
+Government,Canada, Carretera 
+Government,Germany, Carretera 
+Midmarket,France, Carretera 
+Midmarket,Germany, Carretera 
+Midmarket,Mexico, Carretera 
+Government,Germany, Carretera 
+Midmarket,Germany, Montana 
+Channel Partners,Canada, Montana 
+Government,France, Montana 
+Channel Partners,Germany, Montana 
+Midmarket,Mexico, Montana 
+Enterprise,Canada, Montana 
+Small Business,Mexico, Montana 
+Government,Germany, Montana 
+Enterprise,Canada, Montana 
+Midmarket,United States of America, Montana 
+Government,Canada, Paseo 
+Midmarket,Mexico, Paseo 
+Channel Partners,Canada, Paseo 
+Government,Germany, Paseo 
+Channel Partners,Germany, Paseo 
+Government,Mexico, Paseo 
+Midmarket,France, Paseo 
+Small Business,Mexico, Paseo 
+Midmarket,Mexico, Paseo 
+Government,United States of America, Paseo 
+Government,Canada, Paseo 
+Channel Partners,United States of America, Paseo 
+Midmarket,Canada, Paseo 
+Government,Canada, Paseo 
+Government,Germany, Paseo 
+Government,Mexico, Velo 
+Enterprise,France, Velo 
+Channel Partners,Germany, Velo 
+Government,Germany, Velo 
+Channel Partners,Germany, Velo 
+Enterprise,United States of America, Velo 
+Enterprise,Canada, Velo 
+Small Business,Canada, VTT 
+Channel Partners,Germany, VTT 
+Midmarket,France, VTT 
+Midmarket,Germany, VTT 
+Government,France, VTT 
+Small Business,France, VTT 
+Government,Canada, VTT 
+Government,France, Amarilla 
+Channel Partners,United States of America, Amarilla 
+Enterprise,Germany, Amarilla 
+Government,France, Amarilla 
+Government,Germany, Amarilla 
+Channel Partners,United States of America, Amarilla 
+Government,United States of America, Amarilla 
+Midmarket,United States of America, Amarilla 
+Government,France, Paseo 
+Midmarket,France, Paseo 
+Government,France, Paseo 
+Government,France, Velo 
+Government,Canada, VTT 
+Channel Partners,United States of America, Carretera 
+Government,Mexico, Carretera 
+Government,United States of America, Carretera 
+Channel Partners,Canada, Carretera 
+Enterprise,United States of America, Carretera 
+Channel Partners,France, Carretera 
+Channel Partners,Germany, Carretera 
+Small Business,Mexico, Carretera 
+Government,Mexico, Carretera 
+Government,France, Carretera 
+Midmarket,Mexico, Montana 
+Small Business,United States of America, Montana 
+Government,France, Montana 
+Government,Canada, Montana 
+Small Business,United States of America, Montana 
+Enterprise,United States of America, Montana 
+Midmarket,United States of America, Paseo 
+Government,United States of America, Paseo 
+Enterprise,United States of America, Paseo 
+Enterprise,France, Paseo 
+Enterprise,Mexico, Paseo 
+Midmarket,Germany, Paseo 
+Channel Partners,Germany, Paseo 
+Small Business,United States of America, Paseo 
+Government,France, Paseo 
+Government,France, Velo 
+Government,Mexico, Velo 
+Enterprise,Canada, Velo 
+Enterprise,United States of America, Velo 
+Government,Canada, Velo 
+Government,Germany, VTT 
+Government,Canada, VTT 
+Enterprise,United States of America, VTT 
+Enterprise,France, VTT 
+Small Business,Germany, VTT 
+Small Business,Mexico, VTT 
+Government,Mexico, VTT 
+Enterprise,France, VTT 
+Channel Partners,United States of America, Amarilla 
+Midmarket,France, Amarilla 
+Enterprise,Canada, Carretera 
+Channel Partners,Canada, Carretera 
+Small Business,Germany, Carretera 
+Government,France, Carretera 
+Government,Canada, Carretera 
+Channel Partners,United States of America, Montana 
+Government,United States of America, Montana 
+Channel Partners,Mexico, Montana 
+Enterprise,Mexico, Montana 
+Midmarket,Canada, Paseo 
+Small Business,France, Paseo 
+Small Business,Germany, Paseo 
+Channel Partners,United States of America, Paseo 
+Enterprise,Mexico, Paseo 
+Channel Partners,Canada, Paseo 
+Enterprise,Germany, Paseo 
+Enterprise,Mexico, Paseo 
+Channel Partners,France, Paseo 
+Small Business,Canada, Paseo 
+Government,Canada, Paseo 
+Enterprise,Canada, Paseo 
+Midmarket,United States of America, Paseo 
+Government,United States of America, Paseo 
+Channel Partners,France, Paseo 
+Channel Partners,Mexico, Paseo 
+Government,United States of America, Velo 
+Government,Germany, Velo 
+Government,Germany, Velo 
+Enterprise,Germany, Velo 
+Enterprise,Mexico, Velo 
+Channel Partners,France, Velo 
+Government,Mexico, Velo 
+Channel Partners,Mexico, Velo 
+Enterprise,Mexico, VTT 
+Small Business,Germany, VTT 
+Government,Germany, VTT 
+Enterprise,Canada, VTT 
+Government,United States of America, VTT 
+Government,Mexico, VTT 
+Small Business,Germany, Amarilla 
+Small Business,Mexico, Amarilla 
+Enterprise,Germany, Amarilla 
+Government,Germany, Amarilla 
+Government,United States of America, Amarilla 
+Government,France, Amarilla 
+Small Business,Canada, Amarilla 
+Enterprise,France, Carretera 
+Government,Germany, Carretera 
+Small Business,Germany, Carretera 
+Channel Partners,United States of America, Carretera 
+Channel Partners,Canada, Carretera 
+Government,Germany, Montana 
+Channel Partners,France, Montana 
+Government,France, Montana 
+Government,Germany, Montana 
+Enterprise,France, Montana 
+Enterprise,Germany, Montana 
+Small Business,France, Paseo 
+Enterprise,Canada, Paseo 
+Channel Partners,France, Paseo 
+Small Business,Germany, Paseo 
+Enterprise,Germany, Paseo 
+Channel Partners,United States of America, Paseo 
+Enterprise,Canada, Paseo 
+Midmarket,Germany, Paseo 
+Enterprise,France, Paseo 
+Enterprise,Germany, Paseo 
+Enterprise,Canada, Velo 
+Small Business,United States of America, VTT 
+Channel Partners,Mexico, VTT 
+Enterprise,Germany, VTT 
+Small Business,Canada, VTT 
+Government,Mexico, VTT 
+Midmarket,Germany, VTT 
+Government,Canada, Carretera 
+Government,Mexico, Paseo 
+Government,Canada, Velo 
+Channel Partners,Germany, VTT 
+Midmarket,Mexico, Montana 
+Midmarket,Mexico, Paseo 
+Midmarket,France, Paseo 
+Government,United States of America, Velo 
+Government,Canada, Carretera 
+Small Business,Germany, Carretera 
+Government,United States of America, Carretera 
+Midmarket,Canada, Montana 
+Small Business,Germany, Montana 
+Government,Canada, Montana 
+Small Business,Germany, Montana 
+Enterprise,Mexico, Montana 
+Government,Canada, Paseo 
+Enterprise,Germany, Paseo 
+Small Business,Germany, Paseo 
+Small Business,United States of America, Paseo 
+Government,United States of America, Paseo 
+Enterprise,France, Paseo 
+Midmarket,Canada, Paseo 
+Government,Canada, Paseo 
+Government,United States of America, Paseo 
+Midmarket,United States of America, Paseo 
+Midmarket,Mexico, Paseo 
+Government,United States of America, Paseo 
+Enterprise,Mexico, Paseo 
+Channel Partners,United States of America, Velo 
+Government,Canada, Velo 
+Government,France, Velo 
+Channel Partners,France, VTT 
+Government,United States of America, VTT 
+Government,France, VTT 
+Midmarket,Mexico, VTT 
+Government,Mexico, Amarilla 
+Enterprise,Mexico, Amarilla 
+Government,Germany, Amarilla 
+Midmarket,United States of America, Amarilla 
+Government,Canada, Amarilla 
+Government,Germany, Montana 
+Government,Germany, Paseo 
+Government,Canada, Paseo 
+Government,Mexico, Paseo 
+Channel Partners,Canada, Paseo 
+Channel Partners,Canada, Velo 
+Government,Mexico, VTT 
+Government,Mexico, Amarilla 
+Channel Partners,Mexico, Amarilla 
+Government,Germany, Amarilla 
+Channel Partners,France, Carretera 
+Channel Partners,Germany, Carretera 
+Government,France, Carretera 
+Small Business,United States of America, Carretera 
+Government,Germany, Carretera 
+Midmarket,Mexico, Carretera 
+Government,United States of America, Carretera 
+Government,France, Carretera 
+Government,France, Montana 
+Enterprise,United States of America, Montana 
+Government,Mexico, Montana 
+Channel Partners,Germany, Montana 
+Small Business,Mexico, Montana 
+Government,France, Paseo 
+Enterprise,United States of America, Paseo 
+Enterprise,France, Paseo 
+Small Business,Mexico, Paseo 
+Government,United States of America, Paseo 
+Small Business,United States of America, Paseo 
+Government,United States of America, Paseo 
+Midmarket,France, Paseo 
+Government,Canada, Paseo 
+Government,Canada, Paseo 
+Enterprise,United States of America, Paseo 
+Enterprise,France, Paseo 
+Government,Canada, Paseo 
+Government,United States of America, Paseo 
+Government,France, Paseo 
+Midmarket,Germany, Paseo 
+Midmarket,United States of America, Velo 
+Midmarket,Mexico, Velo 
+Enterprise,Germany, Velo 
+Government,United States of America, Velo 
+Government,United States of America, Velo 
+Government,France, Velo 
+Enterprise,United States of America, Velo 
+Enterprise,France, Velo 
+Government,France, Velo 
+Small Business,Germany, Velo 
+Government,Canada, VTT 
+Government,United States of America, VTT 
+Government,Germany, VTT 
+Government,United States of America, VTT 
+Government,United States of America, VTT 
+Government,France, VTT 
+Government,Germany, Amarilla 
+Government,Canada, Amarilla 
+Government,Canada, Amarilla 
+Small Business,Germany, Amarilla 
+Midmarket,France, Paseo 
+Government,United States of America, Carretera 
+Midmarket,Canada, Carretera 
+Channel Partners,Mexico, Carretera 
+Channel Partners,Canada, Carretera 
+Midmarket,United States of America, Carretera 
+Government,United States of America, Carretera 
+Enterprise,Germany, Carretera 
+Government,Mexico, Montana 
+Government,Germany, Montana 
+Government,France, Montana 
+Channel Partners,United States of America, Montana 
+Government,France, Paseo 
+Channel Partners,Canada, Paseo 
+Government,United States of America, Paseo 
+Enterprise,Canada, Velo 
+Enterprise,United States of America, Velo 
+Midmarket,Germany, Velo 
+Government,France, Velo 
+Government,Mexico, Velo 
+Small Business,France, Velo 
+Government,France, Velo 
+Midmarket,Canada, VTT 
+Government,Mexico, VTT 
+Small Business,France, VTT 
+Government,Mexico, VTT 
+Small Business,Canada, VTT 
+Enterprise,France, Amarilla 
+Government,Mexico, Amarilla 
+Government,United States of America, Amarilla 
+Government,France, Amarilla 
+Government,France, Amarilla 
+Government,France, Montana 
+Midmarket,United States of America, Paseo 
+Midmarket,Germany, Paseo 
+Midmarket,United States of America, Paseo 
+Government,France, Paseo 
+Government,Germany, Velo 
+Government,Mexico, Velo 
+Midmarket,United States of America, VTT 
+Channel Partners,Mexico, Carretera 
+Channel Partners,Canada, Carretera 
+Government,Mexico, Carretera 
+Channel Partners,Mexico, Montana 
+Channel Partners,France, Montana 
+Government,France, Paseo 
+Midmarket,Canada, Velo 
+Government,Canada, Velo 
+Government,United States of America, Velo 
+Government,Canada, Velo 
+Channel Partners,France, VTT 
+Channel Partners,Germany, VTT 
+Government,Canada, VTT 
+Government,Canada, Amarilla 
+Government,United States of America, Carretera 
+Small Business,France, Carretera 
+Small Business,France, Carretera 
+Government,France, Montana 
+Small Business,France, Montana 
+Enterprise,Germany, Montana 
+Small Business,Canada, Paseo 
+Small Business,France, Paseo 
+Enterprise,Germany, Paseo 
+Midmarket,France, Paseo 
+Midmarket,United States of America, Paseo 
+Government,France, Paseo 
+Small Business,Germany, Paseo 
+Small Business,Canada, Paseo 
+Channel Partners,Mexico, Paseo 
+Government,Germany, Paseo 
+Small Business,France, Velo 
+Government,Mexico, Velo 
+Enterprise,Germany, Velo 
+Government,France, Velo 
+Government,United States of America, Velo 
+Small Business,United States of America, Velo 
+Government,Germany, Velo 
+Channel Partners,Canada, VTT 
+Small Business,France, VTT 
+Small Business,Mexico, VTT 
+Enterprise,Canada, Amarilla 
+Government,France, Amarilla 
+Enterprise,Germany, Amarilla 
+Government,Canada, Amarilla 
+Small Business,United States of America, Amarilla 
+Government,Canada, Montana 
+Government,United States of America, Montana 
+Government,Canada, Paseo 
+Government,United States of America, Amarilla 
+Enterprise,Mexico, Carretera 
+Midmarket,France, Carretera 
+Government,Mexico, Carretera 
+Midmarket,France, Montana 
+Government,Canada, Montana 
+Government,Germany, Montana 
+Small Business,France, Montana 
+Small Business,Canada, Montana 
+Midmarket,Germany, Montana 
+Enterprise,Mexico, Paseo 
+Government,Germany, Paseo 
+Government,Germany, Paseo 
+Government,Germany, Paseo 
+Small Business,Mexico, Paseo 
+Government,United States of America, Paseo 
+Government,Germany, Paseo 
+Government,Germany, Paseo 
+Government,Germany, Paseo 
+Government,Mexico, Paseo 
+Government,Germany, Paseo 
+Government,Mexico, Paseo 
+Government,Mexico, Paseo 
+Channel Partners,Canada, Velo 
+Government,United States of America, Velo 
+Government,Germany, Velo 
+Small Business,France, Velo 
+Small Business,Mexico, Velo 
+Government,France, VTT 
+Government,Germany, VTT 
+Government,France, VTT 
+Government,Germany, VTT 
+Small Business,Canada, VTT 
+Small Business,United States of America, VTT 
+Government,Canada, Amarilla 
+Government,United States of America, Amarilla 
+Government,Germany, Amarilla 
+Small Business,Mexico, Amarilla 
+Government,Germany, Amarilla 
+Midmarket,Germany, Amarilla 
+Channel Partners,Mexico, Amarilla 
+Small Business,Mexico, Amarilla 
+Government,United States of America, VTT 
+Small Business,Canada, Carretera 
+Channel Partners,Mexico, Carretera 
+Small Business,Canada, Montana 
+Government,France, Montana 
+Small Business,France, Montana 
+Channel Partners,Canada, Montana 
+Enterprise,France, Montana 
+Government,Canada, Montana 
+Enterprise,United States of America, Montana 
+Small Business,Germany, Montana 
+Small Business,Mexico, Paseo 
+Government,Mexico, Paseo 
+Midmarket,United States of America, Paseo 
+Small Business,Canada, Paseo 
+Midmarket,France, Paseo 
+Channel Partners,Mexico, Paseo 
+Small Business,France, Paseo 
+Channel Partners,Germany, Paseo 
+Enterprise,United States of America, Paseo 
+Midmarket,Mexico, Velo 
+Small Business,Canada, Velo 
+Government,Germany, Velo 
+Enterprise,Canada, Velo 
+Enterprise,Mexico, Velo 
+Government,Canada, Velo 
+Channel Partners,United States of America, VTT 
+Small Business,Germany, VTT 
+Government,United States of America, VTT 
+Channel Partners,Germany, VTT 
+Small Business,United States of America, VTT 
+Channel Partners,France, VTT 
+Midmarket,France, VTT 
+Enterprise,Mexico, VTT 
+Government,United States of America, Amarilla 
+Government,Canada, Amarilla 
+Midmarket,Germany, Amarilla 
+Government,Mexico, Amarilla 
+Government,Germany, Carretera 
+Government,Canada, Carretera 
+Channel Partners,Germany, Carretera 
+Government,Mexico, Carretera 
+Government,United States of America, Paseo 
+Government,Mexico, Paseo 
+Government,Germany, Paseo 
+Channel Partners,France, Velo 
+Midmarket,Mexico, Velo 
+Government,Germany, VTT 
+Government,France, VTT 
+Government,Mexico, VTT 
+Government,Mexico, Amarilla 
+Midmarket,Canada, Amarilla 
+Channel Partners,France, Amarilla 
+Channel Partners,United States of America, Carretera 
+Government,United States of America, Montana 
+Channel Partners,United States of America, Paseo 
+Enterprise,United States of America, Carretera 
+Enterprise,France, Carretera 
+Government,United States of America, Montana 
+Enterprise,United States of America, Montana 
+Midmarket,France, Montana 
+Government,France, Paseo 
+Small Business,Mexico, Paseo 
+Midmarket,France, Paseo 
+Government,Germany, Paseo 
+Midmarket,Germany, Velo 
+Midmarket,Germany, Velo 
+Midmarket,United States of America, Velo 
+Government,France, Velo 
+Enterprise,United States of America, Velo 
+Small Business,United States of America, Velo 
+Government,Germany, Velo 
+Government,Germany, Velo 
+Enterprise,Canada, Velo 
+Small Business,France, Velo 
+Enterprise,Mexico, VTT 
+Midmarket,Mexico, VTT 
+Government,United States of America, VTT 
+Small Business,Mexico, VTT 
+Small Business,United States of America, VTT 
+Midmarket,France, VTT 
+Enterprise,Canada, VTT 
+Government,Germany, VTT 
+Enterprise,United States of America, Amarilla 
+Government,Canada, Amarilla 
+Small Business,United States of America, Amarilla 
+Channel Partners,Canada, Amarilla 
+Government,Mexico, Amarilla 
+Channel Partners,Germany, Amarilla 
+Government,Canada, Amarilla 
+Midmarket,France, Amarilla 
+Small Business,France, Amarilla 
+Channel Partners,France, Carretera 
+Government,France, Paseo 
+Channel Partners,France, Paseo 
+Midmarket,Canada, Velo 
+Channel Partners,Germany, Velo 
+Government,United States of America, VTT 
+Channel Partners,Mexico, VTT 
+Midmarket,United States of America, Amarilla 
+Channel Partners,Germany, Amarilla 
+Channel Partners,Canada, Carretera 
+Government,Germany, Carretera 
+Small Business,Germany, Carretera 
+Enterprise,France, Carretera 
+Midmarket,Canada, Carretera 
+Government,Mexico, Carretera 
+Government,Germany, Montana 
+Government,Germany, Montana 
+Midmarket,Mexico, Montana 
+Small Business,Canada, Paseo 
+Government,Mexico, Paseo 
+Government,Canada, Paseo 
+Channel Partners,Canada, Paseo 
+Channel Partners,France, Paseo 
+Government,Canada, Paseo 
+Midmarket,Mexico, Paseo 
+Enterprise,France, Paseo 
+Government,Germany, Paseo 
+Small Business,Canada, Paseo 
+Government,France, Velo 
+Midmarket,Mexico, Velo 
+Government,Mexico, Velo 
+Government,Canada, Velo 
+Channel Partners,France, VTT 
+Enterprise,Mexico, VTT 
+Government,Canada, VTT 
+Enterprise,Germany, Amarilla 
+Government,Mexico, Amarilla 
+Enterprise,France, Amarilla 
+Enterprise,Mexico, Amarilla 
+Government,Mexico, Amarilla 
+Midmarket,Mexico, Amarilla 
+Government,United States of America, Paseo 
+Government,Mexico, Carretera 
+Enterprise,Canada, Carretera 
+Enterprise,Mexico, Carretera 
+Midmarket,Canada, Carretera 
+Midmarket,United States of America, Montana 
+Small Business,France, Montana 
+Government,Mexico, Montana 
+Government,Canada, Montana 
+Government,Mexico, Montana 
+Small Business,France, Montana 
+Small Business,United States of America, Paseo 
+Government,Mexico, Paseo 
+Enterprise,Mexico, Paseo 
+Government,Mexico, Paseo 
+Government,Mexico, Paseo 
+Government,France, Paseo 
+Small Business,Germany, Paseo 
+Small Business,Mexico, Paseo 
+Government,Mexico, Paseo 
+Midmarket,Mexico, Paseo 
+Government,Mexico, Paseo 
+Government,Mexico, Velo 
+Government,United States of America, Velo 
+Government,Mexico, Velo 
+Channel Partners,Canada, VTT 
+Midmarket,France, VTT 
+Government,Canada, VTT 
+Government,United States of America, VTT 
+Enterprise,United States of America, VTT 
+Government,Mexico, VTT 
+Government,United States of America, Amarilla 
+Government,France, Amarilla 
+Government,Canada, Amarilla 
+Midmarket,United States of America, Amarilla 
+Government,France, Carretera 
+Channel Partners,Mexico, Montana 
+Government,Germany, Paseo 
+Government,France, VTT 
+Government,Germany, VTT 
+Channel Partners,Canada, Amarilla 
+Midmarket,United States of America, Carretera 
+Midmarket,United States of America, VTT 
+Government,Canada, Carretera 
+Government,France, Carretera 
+Government,Germany, Carretera 
+Government,United States of America, Montana 
+Government,United States of America, Montana 
+Channel Partners,Mexico, Montana 
+Government,Mexico, Montana 
+Government,Canada, Montana 
+Government,United States of America, Paseo 
+Small Business,Germany, Paseo 
+Government,United States of America, Paseo 
+Government,Germany, Paseo 
+Government,Canada, Paseo 
+Enterprise,Canada, Paseo 
+Channel Partners,Mexico, Paseo 
+Government,France, Paseo 
+Midmarket,Canada, Paseo 
+Government,Canada, Paseo 
+Government,Germany, Paseo 
+Channel Partners,Germany, Paseo 
+Midmarket,France, Velo 
+Government,Canada, Velo 
+Government,France, Velo 
+Channel Partners,Mexico, Velo 
+Midmarket,Germany, Velo 
+Channel Partners,Mexico, Velo 
+Small Business,Mexico, Velo 
+Channel Partners,Germany, Velo 
+Enterprise,Canada, VTT 
+Midmarket,Canada, VTT 
+Enterprise,Canada, Amarilla 
+Government,France, Amarilla 
+Channel Partners,Mexico, Amarilla 
+Channel Partners,Germany, Amarilla 
+Government,Mexico, Carretera 
+Government,United States of America, Carretera 
+Government,United States of America, Carretera 
+Government,Germany, Carretera 
+Government,France, Montana 
+Government,United States of America, Montana 
+Midmarket,Germany, Paseo 
+Government,Canada, Paseo 
+Midmarket,United States of America, Paseo 
+Channel Partners,France, Paseo 
+Government,Germany, VTT 
+Channel Partners,France, Amarilla 
+Channel Partners,United States of America, Amarilla 
+Small Business,Mexico, Carretera 
+Enterprise,France, Carretera 
+Small Business,Canada, Carretera 
+Small Business,United States of America, Carretera 
+Midmarket,Germany, Carretera 
+Midmarket,Canada, Carretera 
+Enterprise,Mexico, Carretera 
+Government,Canada, Montana 
+Government,Germany, Montana 
+Government,Canada, Montana 
+Government,Canada, Montana 
+Government,Mexico, Montana 
+Midmarket,Canada, Montana 
+Government,Mexico, Paseo 
+Midmarket,Canada, Paseo 
+Midmarket,Canada, Paseo 
+Channel Partners,United States of America, Paseo 
+Government,France, Paseo 
+Government,Canada, Paseo 
+Channel Partners,Canada, Paseo 
+Government,United States of America, Paseo 
+Government,France, Paseo 
+Enterprise,Mexico, Velo 
+Government,United States of America, Velo 
+Small Business,United States of America, Velo 
+Small Business,Canada, Velo 
+Small Business,Germany, Velo 
+Government,Mexico, VTT 
+Small Business,United States of America, VTT 
+Small Business,Canada, VTT 
+Small Business,Canada, VTT 
+Small Business,United States of America, VTT 
+Government,France, VTT 
+Small Business,Canada, Amarilla 
+Enterprise,United States of America, Amarilla 
+Channel Partners,France, Amarilla 
+Midmarket,Canada, Amarilla 
+Channel Partners,United States of America, Amarilla 
+Government,France, Amarilla 
+Government,Mexico, Amarilla 
+Midmarket,Mexico, Amarilla 
+Enterprise,France, Carretera 
+Enterprise,Germany, Carretera 
+Enterprise,Germany, Carretera 
+Small Business,Mexico, Montana 
+Government,Germany, Paseo 
+Midmarket,Canada, Paseo 
+Government,Mexico, Paseo 
+Government,Mexico, Paseo 
+Midmarket,Canada, Paseo 
+Government,United States of America, Paseo 
+Enterprise,Germany, Paseo 
+Midmarket,Germany, Paseo 
+Government,United States of America, Paseo 
+Government,Mexico, Paseo 
+Channel Partners,United States of America, Paseo 
+Government,France, Paseo 
+Channel Partners,Mexico, Velo 
+Midmarket,France, Velo 
+Enterprise,France, Velo 
+Small Business,United States of America, Velo 
+Enterprise,United States of America, Velo 
+Channel Partners,United States of America, Velo 
+Government,Canada, VTT 
+Midmarket,Germany, VTT 
+Government,United States of America, VTT 
+Midmarket,Germany, VTT 
+Enterprise,Canada, VTT 
+Enterprise,Germany, VTT 
+Government,France, VTT 
+Small Business,France, Amarilla 
+Small Business,Mexico, Amarilla 
+Government,Mexico, Montana 
+Government,Canada, Paseo 
+Channel Partners,United States of America, VTT 
+Nigeria,Suya,
