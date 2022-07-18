@@ -57,7 +57,7 @@ class Client():   # Create Superclass that can perform all the functions
             password = input("Enter password\n")
 
             users_list.append(username)         # Adds user to list of users
-            user = User(username)               # Creates class object for user
+            user = User(username, password)               # Creates class object for user
             users[username] = user              # Stores the class object in the "users" dictionary
             users_cred[username] = password     # Saves the username and password of the new user
             return "New User Created"
@@ -95,8 +95,9 @@ class Client():   # Create Superclass that can perform all the functions
 
 class User(Client):
 
-    def __init__ (self, username):
+    def __init__ (self, username, password):
         super().__init__(username)
+        self.password = password
         self.access = ["read"]
 
 class Guest(Client):
